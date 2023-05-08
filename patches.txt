@@ -2,3 +2,9 @@
 custom-branding
 
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+remove-screenshot-restriction 
+hide-player-overlay
+
+predictive-back-gesture 
+custom-video-buffer
+spoof-wifi-connection 
